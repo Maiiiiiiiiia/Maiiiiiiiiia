@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm learning to be a Frontend Developer on the Hexlet platform.
 <!--
 **Maiiiiiiiiia/Maiiiiiiiiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
