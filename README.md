@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 I'm learning to be a Frontend Developer on the Hexlet platform.
+
+🌱What am I learning:
+How to work with GitHub,
+Layout Basics (CSS, Flex)
+JavaScript (Arrays, objects, Environment Setting, Automatic testing, Trees, )
+Browser application development (OOP, HTTP, Asynchronous programming, DOM API, Regexp, Frontend architecture)
 <!--
 **Maiiiiiiiiia/Maiiiiiiiiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
