@@ -2,12 +2,14 @@
 
 <h4>I'm learning to be a Frontend Developer on the Hexlet platform.</h4>
 
-<h4>🌱What am I learning:</h4>
+<h4>🌱What can I do:</h4>
 <li>How to work with GitHub</li>
+<li>React, Redux Toolkit</li>
 <li>Layout Basics (HTML, CSS, Flex)</li>
 <li>JavaScript (Arrays, objects, Trees, Environment Setting (NPM, Dependencies, eslint))</li>
 <li>Automatic testing</li>
 <li>Browser application development (OOP, HTTP, Asynchronous programming, DOM API, Regexp, Frontend architecture)</li>
+<li>Typescript</li>
 
 
 
