@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<h4>I'm learning to be a Frontend Developer on the Hexlet platform.</h4>
-
 <h4>🌱What can I do:</h4>
 <li>How to work with GitHub</li>
 <li>React, Redux Toolkit</li>
